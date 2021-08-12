@@ -1,3 +1,7 @@
+[B]Version 0.3.4[/B]
+- Update for Kodi 19
+- some python 3 refactoring
+
 [B]Version 0.3.3[/B]
 -This is now a stand-alone html file.
 -Removed images, password protect.

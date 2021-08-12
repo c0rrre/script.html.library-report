@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="script.html.library-report" name="Kodi Library Report" provider-name="Steveb" version="0.3.3">
+<addon id="script.html.library-report" name="Kodi Library Report" provider-name="Steveb" version="0.3.4">
     <requires>
-        <import addon="xbmc.python" version="2.14.0" />
+        <import addon="xbmc.python" version="3.0.0" />
     </requires>
     <extension library="default.py" point="xbmc.python.script">
         <provides>executable</provides>
@@ -13,7 +13,7 @@
         <forum>http://forum.xbmc.org/showthread.php?tid=167632</forum>
         <source>https://github.com/Steveb1968/script.html.library-report</source>
         <license>GNU GENERAL PUBLIC LICENSE Version 2</license>
-        <news lang="en">Kodi Krypton compatible (v17). Added runtime for TvShows.</news>
+        <news lang="en">Kodi Krypton compatible (v19). Added runtime for TvShows.</news>
         <assets>
             <icon>resources/icon.png</icon>
             <fanart>resources/fanart.jpg</fanart>
